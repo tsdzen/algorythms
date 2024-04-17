@@ -1,4 +1,3 @@
-42. TrappingRainWater => {
-    Trapping Rain Water
-        Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.
+42. TrappingRainWater => {<br>
+    Trapping Rain Water<br>Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.
 }
